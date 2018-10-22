@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## A summary of Transcriptome analysis data obtained
 
-You can use the [editor on GitHub](https://github.com/eduardofox2/transcriptome_paper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently trying to run the shiny R code using the files in this repository and see whether the tables will get renedered correctly. This is not my speciality!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See cheat codes below, for writing here.
 
 ### Markdown
 
